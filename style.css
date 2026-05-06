@@ -11,42 +11,43 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
+    margin-left: 40px;
 }
 #gpt{
-    border:1px solid;
+    border:5px solid;
     border-color:gold;
 }
 #gem{
-    border:1px solid;
+    border:5px solid;
     border-color:gold;
 }
 #co{
-    border:1px solid;
+    border:5px solid;
     border-color:gold;
 }
 
 #mid{
-    border:1px solid;
+    border:5px solid;
     border-color:gold;
 }
 #dale{
-    border:1px solid;
+    border:5px solid;
     border-color:GOLD;
 }
 #canva{
-    border:1px solid;
+    border:5px solid;
     border-color:GOLD;
 }
 #no{
-    border:1px solid;
+    border:5px solid;
     border-color:gold;
 }
 #run{
-    border:1px solid;
+    border:5px solid;
     border-color:gold;
 }
 #cal{
-    border:1px solid;
+    border:5px solid;
     border-color:gold;
 }
 #nav{
