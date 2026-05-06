@@ -1,0 +1,77 @@
+.headone{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.headtwo{
+    text-align: center;
+    color:blue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.layout {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+#gpt{
+    border:1px solid;
+    border-color:gold;
+}
+#gem{
+    border:1px solid;
+    border-color:gold;
+}
+#co{
+    border:1px solid;
+    border-color:gold;
+}
+
+#mid{
+    border:1px solid;
+    border-color:gold;
+}
+#dale{
+    border:1px solid;
+    border-color:GOLD;
+}
+#canva{
+    border:1px solid;
+    border-color:GOLD;
+}
+#no{
+    border:1px solid;
+    border-color:gold;
+}
+#run{
+    border:1px solid;
+    border-color:gold;
+}
+#cal{
+    border:1px solid;
+    border-color:gold;
+}
+#nav{
+    align-items: center;
+    font-weight: bolder;
+    color:aqua;
+}
+.emo{
+    text-align: center;
+    font-size:70px;
+    color:black;
+    font-weight: bolder;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+#cr{
+    text-align-last: center;
+    color:chartreuse;
+    font-style: oblique;
+    
+}
+.gg{
+    background-color: antiquewhite;
+}
+.main{
+    align-items: center;
+    width:100%;
+    border: 5px dotted greenyellow;
+}
